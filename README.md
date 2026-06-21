@@ -1,2 +1,14 @@
 # qiutan-zone-hub
-HTML page archive and documentation
+
+静态页面记录中心
+
+本仓库用于保存页面发布产物，内容以实际文件为准。
+
+## 文件列表
+
+- README：仓库说明
+- HTML：页面发布文件
+
+## 维护记录
+
+后续发布会继续追加页面，已有文件不会在 README 中逐一列出。
